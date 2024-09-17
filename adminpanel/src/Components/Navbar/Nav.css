@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 15fx 60fx;
+    box-shadow: 0 1px 3px -2px #302f2f;
+    margin-bottom: 1px;
+    background: rgb(239 229 229);
+}
+
+.nav_title h1{
+    color: rgb(82, 145, 145);
+}
+
+.nav_logo{
+    margin-left: 20px;
+}
+
+.nav_profile{
+    margin-right: 20px;
+}

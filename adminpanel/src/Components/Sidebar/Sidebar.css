@@ -1,0 +1,23 @@
+.sibebar{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 30px;
+    width: 100%;
+    max-width: 250px;
+    height: 100vh;
+    background: white;
+}
+
+.sidebar_item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    gap: 20px;
+    cursor: pointer;
+    background-color: rgb(129, 189, 189);
+}
+
